@@ -1,16 +1,16 @@
 
 
-[![GIF](https://github.com/SAIFDEAD/MUSIC1/blob/main/SAIFDEAD.gif)](https://github.com/SAIFDEAD)
-   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD OP")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")
+[![GIF](https://github.com/ANSHXD8/MUSIC1/blob/main/SAIFDEAD.gif)](https://github.com/SAIFDEAD)
+   [![𝐌𝐑.𝐒𝐀𝐈𝐅(https://github-stats-alpha.vercel.app/api?username=ANSHXD8 "ANSHXD8 OP")](https://github-stats-alpha.vercel.app/api?username=ANSHXD8 "ANSHXD8")
 
 
 
 
 
-GO TO [RELOAD.PY](https://github.com/SAIFDEAD/DAXXMUSIC/blob/Master/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/ANSHXD8/DAXXMUSIC/blob/Master/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/030e1ec8d895acd51bf1f.jpg">
+  <img src="https://telegra.ph/file/67ef6a7b235b1fb6c6485.jpg">
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@ GO TO [RELOAD.PY](https://github.com/SAIFDEAD/DAXXMUSIC/blob/Master/DAXXMUSIC/pl
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/MUSIC1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ANSHXD8/MUSIC1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAIFDEAD&show_icons=true&locale=en&layout=compact" alt="SAIFDEAD" /></p>
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSHXD8&show_icons=true&locale=en&layout=compact" alt="ANSHXD8" /></p>
 
 
 ### Contact :
-<a href="https://t.me/SAIFHELPG"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/THE_CASTLESS"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
