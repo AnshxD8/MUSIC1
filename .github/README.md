@@ -1,7 +1,7 @@
 
 
-[![GIF](https://github.com/ANSHXD8/MUSIC1/blob/main/ANSHXD8.gif)](https://github.com/SAIFDEAD)
-   [![𝐌𝐑.𝐀ηѕн(https://github-stats-alpha.vercel.app/ausername=ANSHXD8"ANSH OP")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIFDEAD")
+[![GIF](https://github.com/ANSHXD8/MUSIC1/blob/main/ANSHXD8.gif)](https://github.com/ANSHXD8)
+[![𝐌𝐑.ANSH(https://github-stats-alpha.vercel.app/api?username=ANSHXD8 "ANSHXD8 OP")](https://github-stats-alpha.vercel.app/api?username=ANSHXD8 "ANSHXD8")
 
 
 
